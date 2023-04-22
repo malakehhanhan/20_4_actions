@@ -11,7 +11,7 @@ on:
     
  jobs: 
   my_ob1: 
-      run-on: ubuntu
+      run-on: 20_4_actions
   
   
     steps: 
