@@ -10,8 +10,8 @@ on:
       - main
     
  jobs: 
-  my_job1: 
-      run-on: ubuntu-latest 
+  my_ob1: 
+      run-on: ubuntu
   
   
     steps: 
