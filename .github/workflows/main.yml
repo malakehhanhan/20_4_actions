@@ -10,8 +10,8 @@ on:
       - main
     
  jobs: 
-  my_ob1: 
-      run-on: 20_4_actions
+  my_job1: 
+      run-on: ubuntu
   
   
     steps: 
