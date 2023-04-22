@@ -1,0 +1,19 @@
+#...........................................
+# First simple git action 
+#...........................................
+
+name: Simple_Pipeline 
+
+on: 
+ push: 
+   branches:
+      - main
+    
+jobs: 
+  my_job1: 
+      run-on: ubuntu-latest 
+  
+  
+    steps: 
+      - name: print hello world 
+        run: echo "Hello world" 
