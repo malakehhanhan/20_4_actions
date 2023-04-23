@@ -1,3 +1,4 @@
+
 #...........................................
 # First simple git action 
 #...........................................
@@ -10,14 +11,13 @@ on:
       - main 
       
       
-  jobs 
-    my job1 
+  jobs:
+    my job1:
     runs-on:ubuntu 
     
-    steps
-      - name:Print hello world   
-        echo:"Hello World!!!!"
-
+    steps:
+      - name: Print hello world   
+        echo: "Hello World!!!!"
               
             
  
