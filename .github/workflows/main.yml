@@ -16,8 +16,8 @@ jobs:
     runs-on:ubuntu
 
     steps:
-      - name:print hello world
-        run:echo "Hello world"
+      - name: print hello world
+        run: echo "Hello world"
     
  
               
