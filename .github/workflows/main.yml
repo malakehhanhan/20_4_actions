@@ -2,8 +2,7 @@
 #...........................................
 # First simple git action 
 #...........................................
-
-name: Simple_Pipeline 
+run-name: Simple_Pipeline 
 
 on:
    push:
