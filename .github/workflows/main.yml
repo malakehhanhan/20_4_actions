@@ -10,8 +10,8 @@ on:
       - main
     
  jobs: 
-  my_job1: 
-      run-on:ubuntu
+  my job1
+      run-on:ubuntu 
   
   
     steps: 
