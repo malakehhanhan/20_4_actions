@@ -9,11 +9,15 @@ on:
    branches:
       - main
     
- jobs: 
-  my job1
-      run-on:ubuntu 
-  
-  
-        steps:
-          - name:print hello world 
-            run:echo "Hello world" 
+ 
+              
+            
+  jobs:
+         my_job1
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Print hello world 
+        run: echo "Hello World"
+      
+           
