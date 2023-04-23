@@ -11,7 +11,7 @@ on:
     
  jobs: 
   my_job1: 
-      run-on: ubuntu
+      run-on:ubuntu
   
   
     steps: 
