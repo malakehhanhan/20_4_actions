@@ -9,16 +9,16 @@ on:
    push:
     braches:
       - main 
-        
-
-jobs:
-  my_job1:
-    runs-on:ubuntu
-
+      
+      
+  jobs 
+    my job1 
+    runs-on:ubuntu 
     
-    steps:
-      - name: Print hello world 
-        run: echo "Hello World"
+    steps
+      - name:Print hello world   
+        echo:"Hello World!!!!"
+
               
             
  
