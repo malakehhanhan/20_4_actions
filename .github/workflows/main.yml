@@ -15,11 +15,10 @@ jobs:
   my_job1
     runs-on:ubuntu
 
-    steps:
-      - name: print hello world
-        run: echo "Hello world"
     
- 
+ steps:
+      - name: Print hello world 
+        run: echo "Hello World"
               
             
  
