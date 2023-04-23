@@ -12,11 +12,11 @@ on:
         
 
 jobs:
-  my_job1
+  my_job1:
     runs-on:ubuntu
 
     
- steps:
+    steps:
       - name: Print hello world 
         run: echo "Hello World"
               
