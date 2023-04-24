@@ -1,6 +1,3 @@
-
-name: Simple_Pipeline 
-
 on:
    push:
     branches:
