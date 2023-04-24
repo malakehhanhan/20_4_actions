@@ -1,5 +1,4 @@
 on:
-   push:
   jobs:
     my job1:
     runs-on:ubuntu 
