@@ -6,7 +6,7 @@ name: Simple_Pipeline
 
 on:
    push:
-    braches:
+    branches:
       - main 
       
       
