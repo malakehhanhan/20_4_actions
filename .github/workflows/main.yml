@@ -1,8 +1,6 @@
 on:
   jobs:
     my job1:
-    runs-on:ubuntu 
-    
     steps:
       - name: Print hello world   
         echo: "Hello World!!!!"
