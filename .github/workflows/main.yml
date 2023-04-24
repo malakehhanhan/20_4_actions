@@ -1,9 +1,7 @@
 on:
    push:
     branches:
-      - main 
-      
-      
+      - main     
   jobs:
     my job1:
     runs-on:ubuntu 
